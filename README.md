@@ -6,7 +6,7 @@ Datasets:
 bro_http01.log (gathered from https://github.com/jzadeh/aktaion2/tree/master/data)
 bro_http02.log (gathered from https://github.com/jzadeh/aktaion2/tree/master/data)
 empire_shell_net_local_users_2020-09-21192606.json (https://github.com/OTRF/Security-Datasets/tree/master/datasets/atomic/windows/*)
-PANTrafficBenign.csv (gathered from https://github.com/jzadeh/aktaion2/tree/master/data)
+pan_http.csv (gathered from https://github.com/jzadeh/aktaion2/tree/master/data)
  
 
 Jupyter Notebook File: 
